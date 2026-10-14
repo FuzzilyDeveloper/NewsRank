@@ -1,0 +1,6 @@
+groq>=0.4,<1.0
+langchain>=1.0,<2.0
+langchain-groq>=1.0,<2.0
+pydantic>=2.7,<3.0
+requests>=2.32,<3.0
+streamlit>=1.40,<2.0
